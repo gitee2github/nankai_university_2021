@@ -20,7 +20,7 @@
 
 我先是VMware上安装虚拟机作为宿主机，基本配置如下图
 
-![3](failure\3.png)
+![3](./failure/3.png)
 
 其中SCSI的硬盘上是宿主机的操作系统，SATA的硬盘上是LFS的操作系统，接着按照指导书+脚本+文档，复制粘贴指令就行。。。
 
@@ -32,11 +32,11 @@
 
 但不幸的是，最终在启动系统是仍然因为不清楚的原因失败了，如下图所示：
 
-![0](failure\0.png)
+![0](./failure/0.png)
 
-![1](failure\1.png)
+![1](./failure/1.png)
 
-![2](failure\2.png)
+![2](./failure/2.png)
 
 关于错误VFS:Unable to mount root fs on unknown-block(0.0)，参考
 
@@ -48,7 +48,7 @@
 
 最后成功的截图如下：
 
-![1911396-zengqs-1](success\1911396-zengqs-1.png)
+![1911396-zengqs-1](./success/1911396-zengqs-1.png)
 
-![1911396-zengqs-1](success\1911396-zengqs-1.png)
+![1911396-zengqs-1](./success/1911396-zengqs-1.png)
 
