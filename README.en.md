@@ -1,4 +1,5 @@
 # Nankai_university_2021
+Reason why the repository's state is set to be closed: https://gitee.com/openeuler/community/pulls/3117
 
 #### Description
 2021南开大学创新实践课程
@@ -34,3 +35,4 @@ Software architecture description
 4.  The most valuable open source project [GVP](https://gitee.com/gvp)
 5.  The manual of Gitee [https://gitee.com/help](https://gitee.com/help)
 6.  The most popular members  [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+
